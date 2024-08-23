@@ -12,7 +12,7 @@ To write a python program to simulate the process of stacking plates.
 6. Create an interactive menu and display it.
 ### Program:
 
-
+```
 class PlateStack:
     def __init__(self):
         self.stack = []
@@ -68,7 +68,7 @@ def plate_stack_game():
 if __name__ == "__main__":
     plate_stack_game()
 
-
+```
 
 ### Output:
 
